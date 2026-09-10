@@ -17,7 +17,7 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, ease: "easeOut" }}
         >
-          <p className="section-label">$ whoami --headline</p>
+          <p className="section-label">$ whoami --Yang hilang cuma jam tidur, bukan jam terbang</p>
           <h1 className="mt-4 text-4xl font-semibold leading-[1.1] text-ink sm:text-5xl lg:text-6xl">
             {profile.name}
           </h1>
